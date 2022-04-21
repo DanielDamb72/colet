@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/estilo.css">
+    <title>Cadastro</title>
+</head>
+<body>
+    <div class="container">
+        <section class="section-cadastro">
+            <div class="titulo">
+                <h1>Cadastro</h1>
+            </div>
+            <div class="formulario-cadastro">
+                <input type="text" name="nome" id="nome" class="campos" placeholder="Nome"><br>
+                <input type="text" name="sobrenome" id="sobrenome" class="campos" placeholder="Sobrenome"><br>
+                <input type="email" name="email" id="email" class="campos" placeholder="E-mail"><br>
+                <input type="password" name="senha" id="senha" class="campos" placeholder="Senha"><br>
+                <input type="password" name="rSenha" id="rSenha" class="campos" placeholder="Confirmar senha"><br>
+
+                <div class="radio primeiro_radio" >
+                    <input type="radio" id="catador" name="tipoCliente" value="Catador" class="radio_botao" placeholder="Catador">
+                    <label for="catador" class="radio_texto">Eu sou catador</label><br> 
+                </div>
+
+
+                <div class="radio">
+                    <input type="radio" id="cliente" name="tipoCliente" value="Cliente" class="radio_botao" placeholder="Cliente">
+                    <label for="cliente" class="radio_texto">Eu sou cliente</label><br>
+                </div>
+
+                <input type="button" value="Entrar" id="btCadastrar">
+            </div>
+            <div class="cadastro">
+                <p>Já possui cadastro?</p><br>
+                <a href="index.html"><b>Login</b></a>
+            </div>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="package/dist/sweetalert2.all.min.js"></script>
+</body>
+</html>
