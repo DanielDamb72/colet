@@ -32,7 +32,7 @@ function validarCadastro(){
             icon: 'success',
             title: 'Deu certo!',
             text: 'Cadastro finalizado com sucesso!'
-          }).then(()=> window.location.href = "index.html")
+          }).then(()=> window.location.href = "login.html")
 
     }
 }
