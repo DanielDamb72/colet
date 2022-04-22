@@ -3,7 +3,7 @@
 
 a{
     text-decoration: none;
-    color: #ddd;
+    color: rgb(172, 208, 55);
     font-size: 1.3em;
 }
 
@@ -19,7 +19,7 @@ nav a:after{
     bottom: 0;
     height: 3px;
     width: 0;
-    background-color: rgb(66, 155, 175);
+    background-color: green;
     transition: 0.5s;
 }
 
@@ -29,7 +29,7 @@ nav a:hover:after{
 
 a:hover{
     text-decoration: none;
-    color: #fff;
+    color: green;
 }
 
 
@@ -38,7 +38,7 @@ a:hover{
 header{
     height: 100px;
     padding: 0 20px;
-    background-color: rgb(23, 97, 113);
+    background-color: rgb(214, 255, 133);
 }
 
 /*Formatação do conteudo*/
