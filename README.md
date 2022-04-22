@@ -4,9 +4,9 @@
 # Autores
 - Amanda Lorena
 - Caio Colpo
-- Daniel Antônio
+- Daniel Antônio (dcmdiego)
 - Diego Cândido
-- Gustavo Bertonsin
+- Gustavo Bertonsin (Bertonsin)
 - João Vitor Resende
-- Lucas Reis
+- Lucas Reis (dealer30)
 - Renato Akaphoi
