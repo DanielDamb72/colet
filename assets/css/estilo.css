@@ -52,7 +52,7 @@ body{
 
 .formulario-cadastro{
     width: 100%;
-    height: 500px;
+    height: 470px;
 }
 
 .campos{
@@ -124,6 +124,12 @@ body{
     text-align: center;
     padding-top: 20px;
     border-top: solid 1px white;
+}
+
+.rInicial{
+    width: 90%;
+    margin: 0px auto 20px auto;
+    text-align: center;
 }
 
 ::-webkit-input-placeholder{
