@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T23:15:47.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.72" etag="2p3docitTcpP3OdgGyvL" version="17.4.6" type="github"><diagram id="EuX7g-8AzffwRQ4VUyoB" name="Page-1">7ZpRc6M2EMc/jR+dAQTYPDrYvutMb5qOO71rXzoKyKCLQJwQNrlPXwkENgbHvsbBnJuXBK2WRexv/xIyjIAb5R8YTMJP1EdkZGh+PgLzkWEYpgPEP2l5Li26CbTSEjDsK9vOsMLfkTJWbhn2Udpw5JQSjpOm0aNxjDzesEHG6LbptqakedUEBqhlWHmQtK2fsc9DZXUMbdfxEeEgrC5taKongpW3MqQh9Ol2zwQWI+AySnl5FOUuIjJ9VWLK85ZHeuuRMRTzc074/E842aZzQ7O+RoHz4dH5vvh7bJZRNpBk6o5Hhk1EvPs1FWHFqPmzyoX9LaNVxzgtSM2Eg2Ek+a5THAXyvwu5uFsm0IkBxGvKIojlsY/EH4JzWl1GjLe8UnmeSlV9UWMbYo5WCfRkeyuqTDiFPCKipcvBYEJcSigrvMFy6QJ9WcfZIMZRfjRfek1BFDCiEeLsWbjkNcrylKp2bdXe7hVC5RM2a0AVoCq+oI69wyMOFKEfoGW9mpZud9Fa0TXfisTIMWecykBZymWeXDCa6ZtC1SJzsFSaSKm0A1oBhdEjTMsbLvy45D50vsZ0cHzt1/OddKqxg5m3p9A9VWqScULTtHCfb1AhW49gkdWfgappDo7q5PVU9S6qnxAJKYNMQUNr7OGC2iz2sLT4NH0BtDz0cYTjDFchvmUw5tiHhdu+r1iDPSFrEafqKKb0YnL3KGOIw+GXhq0NrjSmJ0qjyuElJvk5SnEQi+4/Qhw/4Tg4Sqw0P7JDy6XRLif65EJz+QHZNthpB9fpW2HVzVZukC+eK1WTMh7SgMaQLHbWe0az2EcyrCZaO59fKU1UBr8izp/VQ3KxUDfyi3LMv8jT7yzV+muvZ56ryEXjWTUkTxVQt2sWcrAvkxD3RjPmoReS4JR+HLIA8VOPoG2yDBHI8aY5jouTcnoU4O8ZikZgeUOy002robtpW3eTDt3Zb6Y7611342ryOyk865rCq0bZi/J+K55t0G2JD2gDE5/9Lr6xXv1IdUp89lXFp/coPpdG9LaUZ9oDU97kXXlj3ThTeZOrKs/oUXkPlN3iwmcbA5Nfn7v4B0b9zJMB7qH3ROgt7eKdg228ee1tfNfu8HCiJQQnqZxQT+QNpkn5gmqNczntNubCzsTaC1uM9T7ljD6hRo8GNFD3VO+lzAvt6TSnScFqUwAdFMBbUTC6Hlb6omC5y6XldlHQdcFB642Cc20KXQtXf1pwHXPerYWp9oYU6nwORQvgxFJzxrIy7XyXcPfn3cO5K4RIKG8CbXKJaYwOICoTJPInaDAnaC0jSDjYg2SmzBH2fXKsfpoPrIcVcwna+mnadq+0j7+d9/HmcF1PExj/9wL4JUrEHgDGHO1VQRmy9fjQuPj/tDY65uN+a+MC3wJ0FsIKeSKX5Yt/hs/+TuNWuddbiaHMCWc8k6YhTOThmqB8Jj+Cktvw2FeHc4/ANMVek9bxTE5/YJ/ezuNenqyOPFW2s3ff6goPFBdFnldbgCal+g1gFaL8+UCdtUPQDmQ1A+mHu8by54VWoIJlfdtdeEVz961X6b77Zg4s/gU=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-26T23:21:54.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.72" etag="iZ1VZ5Tzil252_TWSTi3" version="17.4.6" type="github">
+  <diagram id="EuX7g-8AzffwRQ4VUyoB" name="Page-1">
+    <mxGraphModel dx="424" dy="243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-4" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Catadores informais de lixo&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFC31F;" parent="1" vertex="1">
+          <mxGeometry x="120" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Software auto sustentável para conexão de ambas as partes&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFC31F;" parent="1" vertex="1">
+          <mxGeometry x="280" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-6" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Conexão de catadores de lixo a possíveis clientes&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFC31F;" parent="1" vertex="1">
+          <mxGeometry x="440" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-7" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Melhorar a eficiência dos catadores de lixo e diminuir a quantidade de lixo descartado de forma incorreta&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFC31F;" parent="1" vertex="1">
+          <mxGeometry x="600" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-8" value="&lt;font&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Design Thinking&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF717;" parent="1" vertex="1">
+          <mxGeometry x="20" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" parent="1" source="W_h7wsD205jmg9Gb9zEZ-9" target="W_h7wsD205jmg9Gb9zEZ-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-9" value="&lt;font&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Quem?&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF717;" parent="1" vertex="1">
+          <mxGeometry x="145" y="80" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" parent="1" source="W_h7wsD205jmg9Gb9zEZ-10" target="W_h7wsD205jmg9Gb9zEZ-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-10" value="&lt;font&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;O que?&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF717;" parent="1" vertex="1">
+          <mxGeometry x="305" y="80" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" parent="1" source="W_h7wsD205jmg9Gb9zEZ-11" target="W_h7wsD205jmg9Gb9zEZ-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-11" value="&lt;font&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Como?&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF717;" parent="1" vertex="1">
+          <mxGeometry x="465" y="80" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" parent="1" source="W_h7wsD205jmg9Gb9zEZ-12" target="W_h7wsD205jmg9Gb9zEZ-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-12" value="&lt;font&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Por que?&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF717;" parent="1" vertex="1">
+          <mxGeometry x="625" y="80" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-18" value="&lt;font&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Product Backlog&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF717;" parent="1" vertex="1">
+          <mxGeometry x="920" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;fillColor=#FF6E6E;strokeColor=#FF0303;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;fillColor=#5CFF5C;strokeColor=#11FF00;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="90" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;fillColor=#FFC94D;strokeColor=#FF8000;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-23" value="&lt;font style=&quot;font-size: 18px&quot;&gt;M.V.P&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-24" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Importante&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-25" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Secundário&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W_h7wsD205jmg9Gb9zEZ-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="210" as="sourcePoint" />
+            <mxPoint x="850" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbhBKE3H_9LHpFoCL3gv-1" value="&lt;p style=&quot;line-height: 1.1&quot;&gt;&lt;font style=&quot;font-size: 14px ; line-height: 1 ; background-color: rgb(255 , 0 , 0)&quot; color=&quot;#ffffff&quot;&gt;Opção de perfil&lt;br&gt;Sistema de login/cadastro&lt;br&gt;Forma de interação entre ambas as partes&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0&quot;&gt;&lt;font style=&quot;font-size: 14px ; line-height: 1 ; background-color: rgb(17 , 255 , 0)&quot;&gt;Chat de texto&lt;br&gt;Sistema de avaliação (feedback)&lt;br&gt;Mapa inteligente&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0&quot;&gt;&lt;font style=&quot;font-size: 14px ; line-height: 1 ; background-color: rgb(255 , 247 , 23)&quot;&gt;Desenvolvimento de aplicativo&lt;br&gt;Guias para ensinar a forma correta de se descartar o lixo&lt;br&gt;Conectividade com empresas&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="130" width="430" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
