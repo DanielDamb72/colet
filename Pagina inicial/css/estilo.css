@@ -1,18 +1,19 @@
 
 /*Formatação de links*/
 
-a{
+a, .btn{
     text-decoration: none;
     color: rgb(172, 208, 55);
     font-size: 1.3em;
 }
 
-nav a{
+
+nav li.linkTopo a{
     position: relative;
-    padding: 0 10px;
+    padding: 5px 10px;
 }
 
-nav a:after{
+nav li.linkTopo a:after{
     content: "";
     position: absolute;
     left: 0;
@@ -23,7 +24,7 @@ nav a:after{
     transition: 0.5s;
 }
 
-nav a:hover:after{  
+nav li.linkTopo a:hover:after{  
     width: 100%;
 }
 
@@ -32,6 +33,10 @@ a:hover{
     color: green;
 }
 
+
+.linkTopo{
+    margin-top: 5px;
+}
 
 /*Formatação do topo*/
 
