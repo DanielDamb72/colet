@@ -5,7 +5,7 @@
 - Amanda Lorena
 - Caio Colpo
 - Daniel Antonio
-- Diego Cândido (dcmdiego)
+- Diego Candido (dcmdiego)
 - Gustavo Bertonsin (Bertonsin)
 - João Vitor Resende
 - Lucas Reis (dealer30)
