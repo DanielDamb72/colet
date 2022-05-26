@@ -9,4 +9,4 @@
 - Gustavo Bertonsin (Bertonsin)
 - João Vitor Resende
 - Lucas Reis (dealer30)
-- Renato Akaphoi
+- Renato Akapohi
