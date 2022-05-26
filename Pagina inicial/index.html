@@ -11,6 +11,10 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
+    <!-- Font Poppins -->
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+
+    <!-- CSS -->
     <link rel="stylesheet" href="css/estilo.css">
     
     <title>CoLet</title>
@@ -18,21 +22,21 @@
   <body>
     
     <header class="d-flex justify-content-between align-items-center"> <!--Inicio do topo-->
-      <div id="logo" class="mt-4">
+      <div id="logo">
         <a href="#">
-          <img width="250px" height="250px" src="imagens/logo.png" alt="">
+          <img src="imagens/logo.png" alt="" id="logo">
         </a>
       </div>
       <nav>
         <ul class="nav">
           <li class="linkTopo nav-item">
-            <a href="#sobre" id="sobre" class="nav-link mr-3">Sobre</a>
+            <a href="#quemsomos" id="Quem somos" class="nav-link mr-3">Quem somos?</a>
           </li>
           <li class="linkTopo nav-item ">
-            <a href="#sobre" id="Quem somos" class="nav-link mr-3">Quem Somos</a>
+            <a href="../login.html" id="entrar" class="nav-link mr-3">Entrar</a>
           </li>
           <li class="nav-item">
-            <a href="../login.html" id="sobre" class="nav-link mr-3 btn btn-outline-success">Entrar</a>
+            <a href="#queroajudar" id="sobre" class="nav-link mr-3 btn btn-outline-success">Quero ajudar</a>
           </li>
         </ul>
       </nav>
@@ -40,28 +44,25 @@
 
     <article>
       
-      <section class="row ml-auto mr-auto" id="conteudo"> <!--Inicio conteudo-->
-      
-        <div class="col-6">
-          <img width="600" height="600" src="imagens/img1.jpg" alt="">
-          <h6>Imagem fornecida por: Usuario x/y</h6>
-        </div>
+      <section class="text-center" id="outdoor"> <!--Inicio conteudo-->
+        <p class="text-center" id="textoInicio">O nosso planeta está em suas mãos.</p>
+        <button type="button" class="btn btn-primary btn-lg" id="btFazer">Saiba mais</button>
 
-        <div class="col-6 mt-auto mb-auto">
-          <h2>Sobre</h2>
-          <p>Somos uma empresa que busca ajudar os catadores informais
-            a conseguirem realizar o seu trabalho com maior efetividade
-            e produtividade. Oferecemos uma maneira de conectar os doadores
-            de lixo reciclável aos catadores, permitindo uma melhor localização
-            e planejamento desses trabalhadores.
-          </p>
-        </div>
+      </section>
 
+      <section id="fazer">
+        <h1 class="text-center">Juntos podemos ir mais longe</h1>
+        <p>&nbsp;&nbsp;&nbsp;A empresa Colet surgiu com o intuito de ajudar o nosso planeta começando pelo descarte correto do lixo reciclável e, para isso, precisamos da sua ajuda! Você, assim como muitas outras pessoas, produz lixo na sua casa. Isso não é necessariamente ruim. Na verdade, é quase impossível de não gerar poluição. Porém, na hora de jogar o lixo fora, você pode fazer a diferença e salvar o meio ambiente com um pequeno passo. Junte-se a nós e vamos melhorar a nossa casa, a Terra!</p>
+        <img src="imagens/img3.png" class="img-fluid rounded float-right" alt="...">
       </section>
 
     </article>
 
     <!--Fim conteudo-->
+
+    <footer>
+      <p class="text-center" id="textoFooter">colet.sustentavel@gmail.com | +55 (62) 99131-2364 | Av. Universitária s/n, Anápolis-GO</p>
+    </footer>
 
 
 
