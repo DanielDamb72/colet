@@ -1,0 +1,75 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #ACD037;
+}
+
+div {
+    border-color: rgba(0, 0, 0, 0.151);
+    border-width: 2px;
+    border-style: solid;
+}
+
+#barraLateral {
+    background-color: #F3FFE3;
+    width: 270px;
+    height: 850px;
+    text-align: left;
+    border-radius: 1%;
+    margin-left: 2%;
+    margin-top: 2%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#barraLateral img {
+    margin-top: 30px;
+    width: 200px;
+    border-radius: 100px;
+    margin-bottom: 10px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+#nome {
+    font-size: 25px;
+}
+
+#tipoCliente {
+    margin-bottom: 500px;
+}
+
+#deslogar:hover {
+    color: darkred;
+}
+
+#deslogar {
+    color: red;
+    text-decoration: none;
+}
+
+#quadradoCentral {
+    background-color: #F3FFE3;
+    width: 1200px;
+    height: 850px;
+    display: inline-block;
+    border-radius: 1%;
+    margin-left: 2%;
+    margin-top: 2%;
+    vertical-align: top;
+}
+
+#listaCatadores {
+    background-color: #F3FFE3;
+    width: 250px;
+    height: 850px;
+    text-align: left;
+    border-radius: 1%;
+    margin-left: 2%;
+    margin-top: 2%;
+    display: inline-block;
+    vertical-align: top;
+}
