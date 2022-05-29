@@ -19,7 +19,7 @@ body{
 
 .section-login{
     width: 30%;
-    height: 500px;
+    height: 520px;
     margin: 0 auto;
     margin-top: 100px;
     border-radius: 5px;
@@ -96,16 +96,7 @@ body{
     background-color: rgb(15, 163, 2);
     font-family: Tahoma;
     border-radius: 5px;
-<<<<<<< HEAD
     cursor: pointer;
-=======
-    text-align: center;
-}
-
-#btCadastrar:hover{
-        background-color: darkgreen;
-        cursor: pointer;
->>>>>>> lucas
 }
 
 #btCadastrar{
@@ -137,6 +128,14 @@ body{
     text-align: center;
     padding-top: 20px;
     border-top: solid 1px white;
+}
+
+.cadastro a:hover {
+    text-decoration: underline;
+}
+
+.rInicial:hover{
+    text-decoration: underline;
 }
 
 .rInicial{
