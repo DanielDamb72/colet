@@ -82,17 +82,30 @@ body{
     margin-bottom: 10px;
 }
 
+#botao:hover{
+    background-color: darkgreen;
+    cursor: pointer;
+}
 
 #botao{
     width: 83%;
     height: 40px;
     border: solid 3px rgb(15, 163, 2);
-    margin: 20px 10%;
+    margin: 40px 10%;
     font-size: 20px;
     background-color: rgb(15, 163, 2);
     font-family: Tahoma;
     border-radius: 5px;
+<<<<<<< HEAD
     cursor: pointer;
+=======
+    text-align: center;
+}
+
+#btCadastrar:hover{
+        background-color: darkgreen;
+        cursor: pointer;
+>>>>>>> lucas
 }
 
 #btCadastrar{
