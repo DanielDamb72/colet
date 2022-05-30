@@ -1,0 +1,183 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Poppins', sans-serif;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+body{
+    background-image: url('../images/fundo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+}
+
+.section-login{
+    width: 30%;
+    height: 520px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.719);
+}
+
+.section-cadastro{
+    width: 30%;
+    height: 660px;
+    margin: 0 auto;
+    margin-top: 70px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.719);
+}
+
+.titulo{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+
+.formulario-login{
+    width: 100%;
+    height: 220px;
+}
+
+.formulario-cadastro{
+    width: 100%;
+    height: 420px;
+}
+
+.campos{
+    width: 80%;
+    height: 40px;
+    border: none;
+    margin: 5px 10%;
+    padding-left: 10px;
+    font-size: 20px;
+    background-color: rgba(88, 88, 88, 0);
+    border-bottom: solid 3px rgb(60, 255, 0);
+}
+
+.primeiro_radio{
+    margin-top: 20px;
+}
+
+.radio_botao{
+    width: 5%;
+    height: 20px;
+    margin: 10px 5px 10px 60px;
+}
+
+.radio_texto{
+    color:  rgb(255, 255, 255);
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+#botao:hover{
+    background-color: darkgreen;
+    cursor: pointer;
+}
+
+#botao:active {
+    background-color: rgb(15, 163, 2);
+}
+
+#botao{
+    width: 83%;
+    height: 40px;
+    border: solid 3px rgb(15, 163, 2);
+    margin: 40px 10%;
+    font-size: 20px;
+    background-color: rgb(15, 163, 2);
+    font-family: Tahoma;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#btCadastrar:hover{
+    background-color: darkgreen;
+}
+
+#btCadastrar:active{
+    background-color: rgb(15, 163, 2);
+}
+
+#btCadastrar{
+    width: 83%;
+    height: 40px;
+    border: solid 3px rgb(15, 163, 2);
+    margin: 30px 10%;
+    font-size: 20px;
+    background-color: rgb(15, 163, 2);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#lembrar{
+    width: 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin: 10px 0px 5px 10%;
+}
+
+#recuperar-senha{
+    text-align: center;
+}
+
+.cadastro{
+    width: 90%;
+    height: 80px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 20px;
+    border-top: solid 1px white;
+}
+
+.cadastro a:hover {
+    text-decoration: underline;
+}
+
+.rInicial:hover{
+    text-decoration: underline;
+}
+
+.rInicial{
+    width: 90%;
+    margin: 0px auto 20px auto;
+    text-align: center;
+}
+
+.rSenha {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+::-webkit-input-placeholder{
+    color: white;
+}
+
+@media screen and (max-width: 480px){
+    .container{
+        min-height: 650px;
+    }
+
+    .section-cadastro{
+        margin-top: 30px;
+        width: 90%;
+    }
+
+    .section-login{
+        width: 90%;
+        margin: 0 auto;
+    }
+    
+}
