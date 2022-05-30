@@ -17,10 +17,10 @@
             <div class="titulo">
                 <h1>Login</h1>
             </div>
-            <form class="formulario-login">
+            <form class="formulario-login" method="POST" action="validacao">
                 <input type="email" name="email" id="email" class="campos" placeholder="E-mail"><br>
                 <input type="password" name="senha" id="senha" class="campos" placeholder="Senha"><br>
-                <input type="button" value="Entrar" id="botao">
+                <input type="submit" value="Entrar" id="botao">
             </form>
 
             <div class="rSenha">
@@ -28,12 +28,12 @@
             </div>
 
             <div class="rInicial">
-                <a href="index.ejs">Retornar para a página inicial</a>
+                <a href="/">Retornar para a página inicial</a>
             </div>
             
             <div class="cadastro">
                 <p>Não possui cadastro?</p><br>
-                <a href="cadastro.ejs"><b>Cadastre-se</b></a>
+                <a href="cadastro"><b>Cadastre-se</b></a>
             </div>
         </section>
     </div>
