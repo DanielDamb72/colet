@@ -16,6 +16,7 @@
                 <h1>Cadastro</h1>
             </div>
             <div class="formulario-cadastro">
+            <form method="POST" id="formulario-cadastro" action="validarCadastro">
                 <input type="text" name="nome" id="nome" class="campos" placeholder="Nome Completo"><br>
                 <input type="email" name="email" id="email" class="campos" placeholder="E-mail"><br>
                 <input type="password" name="senha" id="senha" class="campos" placeholder="Senha"><br>
@@ -32,7 +33,8 @@
                     <label for="cliente" class="radio_texto">Eu sou cliente</label><br>
                 </div>
 
-                <input type="button" value="Entrar" id="btCadastrar">
+                <input type="submit" value="Entrar" id="btCadastrar">
+            </form>
             </div>
             <div class="rInicial">
                 <a href="/">Retornar para a página inicial</a>
@@ -45,7 +47,6 @@
         </section>
     </div>
 
-    <script src="assets/js/script.js"></script>
     <script src="package/dist/sweetalert2.all.min.js"></script>
 </body>
 </html>
