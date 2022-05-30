@@ -4,6 +4,8 @@ const app = express();
 const connection = require('./database/database.js');
 const perfil = require('./database/perfil');
 
+const validarCadastro = require('./perfil/validarCadastro');
+
 connection
      .authenticate()
      .then(() => {
@@ -21,6 +23,8 @@ app.use(express.static('public'));
 app.use(bodyParser.urlencoded({extended: false}));
 app.use(bodyParser.json());
 
+app.use("/", validarCadastro);
+
 
 app.get("/", function(req, res){
     res.render("index.ejs");
@@ -36,22 +40,6 @@ app.get("/cadastro", function(req, res){
 
 app.get("/encerrouSessao", function(req, res){
     res.render("encerrouSessao.ejs");
-});
-
-app.post("/validarCadastro", function(req, res){
-    var nome = req.body.nome;
-    var email = req.body.email;
-    var senha = req.body.senha;
-    var tipoCliente = req.body.tipoCliente;
-
-    perfil.create({
-        nome: nome,
-        email: email,
-        senha: senha,
-        tipoCliente: tipoCliente,
-    }).then(() => {
-        res.redirect("login")
-    })
 });
 
 app.listen(4000, function(erro){
